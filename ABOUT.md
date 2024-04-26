@@ -26,6 +26,8 @@ while formulating a more educational and financially responsible way to gamble.
 - User can request their `bit` balance
 - User can lose a maximum of 300 `bits` per day
 
+![uml](./assets/uml.png)
+
 ## Stretch Goals
 
 - User can play `BLACKJACK` with their `bits`
